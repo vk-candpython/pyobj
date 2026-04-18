@@ -42,7 +42,7 @@
 
 ## 📋 Overview
 
-**pyobj.h** is a **single-header C++17 library** that provides **Python-like syntax** for embedding Python in C++ applications.
+**pyobj.h** is a **single-header C++ library** that provides **Python-like syntax** for embedding Python in C++ applications.
 
 ### What problem does it solve?
 
@@ -708,7 +708,7 @@ g++ -std=c++17 main.cpp -o main \
 
 ## 📋 Обзор
 
-**pyobj.h** — это **header-only библиотека C++17**, которая предоставляет **Python-подобный синтаксис** для встраивания Python в C++ приложения.
+**pyobj.h** — это **header-only библиотека C++**, которая предоставляет **Python-подобный синтаксис** для встраивания Python в C++ приложения.
 
 ### Какую проблему решает?
 
