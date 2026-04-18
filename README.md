@@ -8,7 +8,7 @@
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-*Header-only C++17 library for seamless Python embedding — Write Python-like code in C++*
+*Header-only C++ library for seamless Python embedding — Write Python-like code in C++*
 
 </div>
 
